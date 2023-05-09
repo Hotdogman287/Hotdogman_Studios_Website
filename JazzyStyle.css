@@ -1,0 +1,44 @@
+body 
+{
+  background: whitesmoke;
+}
+
+p 
+{
+  color: black;
+  font-size: 16px;
+}
+
+h1 
+{
+  font-weight: bolder;
+  color: darkblue;
+  font-style: italic;
+  text-align: center;
+}
+
+h3 
+{
+  font-style: italic;
+  font-family: fantasy;
+  font-weight: bold;
+  color: rgb( 64 64 200);
+}
+
+lis
+{
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 18px;
+}
+
+.myImage 
+{
+  background-image: url("Hotdog.png");
+  text-align: center;
+  float: inherit;
+  margin 10px;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+}
